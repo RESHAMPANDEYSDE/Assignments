@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|c:\\users\\user\\source\\repos\\dotnettest\\studentprojectapi\\studentprojectapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|solutionrelative:studentprojectapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|c:\\users\\user\\source\\repos\\dotnettest\\studentprojectapi\\studentprojectapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|solutionrelative:studentprojectapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|c:\\users\\user\\source\\repos\\dotnettest\\studentprojectapi\\studentprojectapi\\repository\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|solutionrelative:studentprojectapi\\repository\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|c:\\users\\user\\source\\repos\\dotnettest\\studentprojectapi\\studentprojectapi\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|solutionrelative:studentprojectapi\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|c:\\users\\user\\source\\repos\\dotnettest\\studentprojectapi\\studentprojectapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|solutionrelative:studentprojectapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|c:\\users\\user\\source\\repos\\dotnettest\\studentprojectapi\\studentprojectapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|solutionrelative:studentprojectapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|c:\\users\\user\\source\\repos\\dotnettest\\studentprojectapi\\studentprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|solutionrelative:studentprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|c:\\users\\user\\source\\repos\\dotnettest\\studentprojectapi\\studentprojectapi\\studentprojectapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|solutionrelative:studentprojectapi\\studentprojectapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|c:\\users\\user\\source\\repos\\dotnettest\\studentprojectapi\\studentprojectapi\\studentprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25DC7542-147C-4E68-8E5C-2641354A6A98}|StudentProjectAPI\\StudentProjectAPI.csproj|solutionrelative:studentprojectapi\\studentprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentProjectAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentProjectAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:27:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Repository\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "StudentProjectAPI\\Repository\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Repository\\StudentDbContext.cs",
+              "RelativeToolTip": "StudentProjectAPI\\Repository\\StudentDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:55:52.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentProjectAPI\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentProjectAPI\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:46:58.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "StudentProjectAPI\\Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Entity\\Student.cs",
+              "RelativeToolTip": "StudentProjectAPI\\Entity\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:27:51.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentProjectAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Program.cs",
+              "RelativeToolTip": "StudentProjectAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:32:28.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "StudentProjectAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "StudentProjectAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:35:13.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentProjectAPI\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentProjectAPI\\Services\\StudentService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:47:33.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentProjectAPI",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\StudentProjectAPI.csproj",
+              "RelativeDocumentMoniker": "StudentProjectAPI\\StudentProjectAPI.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\StudentProjectAPI.csproj",
+              "RelativeToolTip": "StudentProjectAPI\\StudentProjectAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T17:35:01.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentProjectAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\StudentProjectAPI.csproj",
+              "RelativeDocumentMoniker": "StudentProjectAPI\\StudentProjectAPI.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\DotnetTest\\StudentProjectAPI\\StudentProjectAPI\\StudentProjectAPI.csproj",
+              "RelativeToolTip": "StudentProjectAPI\\StudentProjectAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T16:21:18.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
